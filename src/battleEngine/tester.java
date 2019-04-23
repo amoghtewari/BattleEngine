@@ -22,6 +22,7 @@ public class tester {
 		
 		bEngine e1 = new bEngine(Card1, Card2);
 		System.out.println(e1.retWinner());
+		System.out.println(e1.battleText());
 		
 	}
 
